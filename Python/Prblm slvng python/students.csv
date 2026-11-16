@@ -1,3 +1,5 @@
-Name,Age,Course
-Anjali,22,python
-Anshu,24,Data scientist
+Name,year of study,course,CGPA
+Anjali,2,CSE,78.35
+sushma,2,ECE,82.75
+koushika,3,CSE-AI,74.23
+Atheka,2,EEE,78.34
