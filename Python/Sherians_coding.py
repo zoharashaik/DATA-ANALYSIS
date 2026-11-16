@@ -266,7 +266,7 @@ try:
 
 except Exception as err:
     print(f"sorry there is an err as {err}")
-print("i have done the diviision")"""
+print("i have done the division")"""
 
 """a = int(input("enter ur age:"))
 try:
@@ -280,12 +280,11 @@ except Exception as err:
 print("The club will start soon")"""
 
 """p = open(r'main.py')
-
-print(p.read())"""
+print(p.read())""" #open and reads the file
 
 """r = open("superman.txt",'w')
 r.write("how are you, i am fine ")
-r.close()"""
+r.close()"""#create and write and print the file contents and closes it
 
 """class Factory:
     a= 12
